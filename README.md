@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/am2var3nnrj4xaoa/branch/main?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ajs-4-1/branch/main)
