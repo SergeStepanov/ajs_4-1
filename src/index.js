@@ -1,3 +1,14 @@
-import './css/style.css';
+/* eslint-disable consistent-return */
+/* eslint-disable no-undef */
 
-import './js/app';
+export default function totalLive(obj) {
+  for (const iterator of obj) {
+    if (iterator.health <= 15) {
+      return critical;
+    }
+    if (iterator.health >= 50) {
+      return healthy;
+    }
+    return wounded;
+  }
+}
