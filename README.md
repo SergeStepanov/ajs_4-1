@@ -1,1 +1,1 @@
-# **Project Sample** [![Build status](https://ci.appveyor.com/api/projects/status/am2var3nnrj4xaoa?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ajs-4-1)
+# **Project Sample**
